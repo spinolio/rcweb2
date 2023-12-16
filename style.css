@@ -1,0 +1,9 @@
+h1 {
+    font-family: copperplate;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
+}
